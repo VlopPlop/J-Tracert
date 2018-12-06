@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="/">
+    <file>map.png</file>
+    <file>apps.ico</file>
+  </qresource>
+</RCC>
