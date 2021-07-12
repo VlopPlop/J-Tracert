@@ -1,4 +1,4 @@
-# J-Tracert - The Most Useful App In The Universe™
+# J-Tracert - simple tracert gui reimplementation
 * **Requires the** [**npcap**](https://nmap.org/npcap/) **or** [**winpcap**](https://www.winpcap.org/) **DLL to receive ICMP packets.**
 * **Assumes open internet connection.**
 * **~~Crashes. Sometimes.~~** **Generally doesn't.**
